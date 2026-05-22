@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {"id":"common","name":"常用网站"},
+    {"id":"tool","name":"实用工具"},
+    {"id":"foreign","name":"国外名站"},
+    {"id":"book","name":"古籍图书"},
+    {"id":"novel","name":"小说阅读"},
+    {"id":"study","name":"学习提升"},
+    {"id":"pan","name":"网盘搜索"},
+    {"id":"digital","name":"数码电器"}
+  ],
+  "sites": [
+    {
+      "name": "乡音",
+      "url": "https://www.xiangyin.cc",
+      "icon": "https://www.xiangyin.cc/favicon.ico",
+      "category": "common"
+    }
+  ]
+}
